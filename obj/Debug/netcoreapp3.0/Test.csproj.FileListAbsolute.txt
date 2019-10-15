@@ -1,0 +1,11 @@
+C:\Users\carlf\Desktop\TheRealMat\Test\bin\Debug\netcoreapp3.0\Test.exe
+C:\Users\carlf\Desktop\TheRealMat\Test\bin\Debug\netcoreapp3.0\Test.deps.json
+C:\Users\carlf\Desktop\TheRealMat\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.json
+C:\Users\carlf\Desktop\TheRealMat\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.dev.json
+C:\Users\carlf\Desktop\TheRealMat\Test\bin\Debug\netcoreapp3.0\Test.dll
+C:\Users\carlf\Desktop\TheRealMat\Test\bin\Debug\netcoreapp3.0\Test.pdb
+C:\Users\carlf\Desktop\TheRealMat\Test\obj\Debug\netcoreapp3.0\Test.csprojAssemblyReference.cache
+C:\Users\carlf\Desktop\TheRealMat\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfoInputs.cache
+C:\Users\carlf\Desktop\TheRealMat\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfo.cs
+C:\Users\carlf\Desktop\TheRealMat\Test\obj\Debug\netcoreapp3.0\Test.dll
+C:\Users\carlf\Desktop\TheRealMat\Test\obj\Debug\netcoreapp3.0\Test.pdb
