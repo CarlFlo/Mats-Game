@@ -13,10 +13,7 @@ namespace Test
                 type = WeaponTypes.Axe,
             };
 
-            wep.dices.AddDice(10);
-            wep.dices.AddDice(10);
-            wep.dices.AddDice(10);
-            wep.dices.AddDice(10);
+            wep.dices.AddDices(4, 10);
 
             (int value, List<int> rolls) = wep.dices.RollDices();
             Console.Out.WriteLine("{0} {1}", value, rolls.StringifyItems());
@@ -57,6 +54,14 @@ namespace Test
     {
         List<Dice> dices;
 
+        public void AddDices(int amount, byte sides)
+        {
+            for (int i = 0; i < amount; ++i)
+            {
+                this.AddDice(sides);
+            }
+        }
+        
         public void AddDice(Dice d) 
         {
             if (dices == null)

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlf\\Desktop\\TheRealMat\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\carlf\\Desktop\\TheRealMat\\Mats-Game\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\carlf\\Desktop\\TheRealMat\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\carlf\\Desktop\\TheRealMat\\Mats-Game\\Test.csproj",
       "packagesPath": "C:\\Users\\carlf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlf\\Desktop\\TheRealMat\\Test\\obj\\",
+      "outputPath": "C:\\Users\\carlf\\Desktop\\TheRealMat\\Mats-Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlf\\AppData\\Roaming\\NuGet\\NuGet.Config"
