@@ -74,12 +74,13 @@ namespace Test
             this.AddDice(d);
         }
 
-        public (int, List<int>) RollDices() {
+        public (int, List<int>) RollDices() 
+        {
             int val = 0;
             var rolls = new List<int>();
             foreach (var d in dices)
             {
-                var roll = d.RollDice();
+                int roll = d.RollDice();
                 rolls.Add(roll);
                 val += roll;
             }
